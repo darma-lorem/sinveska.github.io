@@ -1,1 +1,1 @@
-<?php header('Location:routes/web.php') ?>
+<?php header('Location:views/auth/login.blade.php') ?>
